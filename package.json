@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThiagoThe/M2S03/issues"
   },
-  "homepage": "https://github.com/ThiagoThe/M2S03#readme"
+  "homepage": "https://github.com/ThiagoThe/M2S03#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
