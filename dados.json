@@ -1,6 +1,5 @@
 {
-  "nome": "caneta",
-  "peso": 0.1,
-  "quantidade": 100,
-  "codigo": 123
+  "produtos": [
+    { "nome": "lapis", "preco": 1, "marca": "Faber", "cor": "verde", "id": 2 }
+  ]
 }
